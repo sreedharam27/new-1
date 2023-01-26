@@ -1,7 +1,7 @@
 provider "aws" {
 region = "us-east-1"
-access_key = "AKIAXJABU3RCW5RVOHDU"
-secrete_key = "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"
+access_key = "AKIAXJABU3RCYYL4AUX5"
+secrete_key = "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"
 }
 
 resource "aws_instance" "Newone" {
